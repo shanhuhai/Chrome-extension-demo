@@ -1,0 +1,11 @@
+{
+    "name": "HelloChrome",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "对我说 Hello，Chrome",
+    "browser_action": {
+        "default_title": "查看",
+        "default_icon":"icon.png",
+        "default_popup": "popup.html"
+    }
+}
